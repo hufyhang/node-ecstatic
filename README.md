@@ -7,7 +7,7 @@ express/connect or on the CLI!
 
 # Changes on this folk:
 
-+ Added "allows" support to specify which directories should be shown.
++ Added "config" support to specify which directories should be shown or which file needs to be ignored.
 
 # Examples:
 

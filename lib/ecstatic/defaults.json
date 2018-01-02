@@ -14,5 +14,10 @@
   "weakEtags": true,
   "weakCompare": true,
   "handleOptionsMethod": false,
-  "allows": []
+  "config": {
+    "admin": {
+      "allows": [],
+      "ignore": []
+    }
+  }
 }
