@@ -17,7 +17,8 @@
   "config": {
     "admin": {
       "allows": [],
-      "ignore": []
+      "ignore": [],
+      "ignoreRegex": []
     }
   }
 }
