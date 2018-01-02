@@ -1,12 +1,12 @@
 {
-  "author": "Joshua Holbrook <josh@nodejitsu.com> (http://jesusabdullah.net)",
-  "name": "ecstatic",
-  "description": "A simple static file server middleware that works with both Express and Flatiron",
-  "version": "3.1.1",
-  "homepage": "https://github.com/jfhbrook/node-ecstatic",
+  "author": "Feifei Hang <l.daniel.hung@gmail.com> ",
+  "name": "ecstatic-htpasswd",
+  "description": "A simple htpasswd-supported static file server middleware that works with both Express and Flatiron",
+  "version": "0.1",
+  "homepage": "https://github.com/hufyhang/node-ecstatic",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jfhbrook/node-ecstatic.git"
+    "url": "git@github.com:hufyhang/node-ecstatic.git"
   },
   "main": "./lib/ecstatic.js",
   "scripts": {
