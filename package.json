@@ -2,7 +2,7 @@
   "author": "Feifei Hang <feifei.hang@yahoo.com> ",
   "name": "ecstatic-htpasswd",
   "description": "A simple htpasswd-supported static file server middleware that works with both Express and Flatiron",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/hufyhang/node-ecstatic",
   "repository": {
     "type": "git",
