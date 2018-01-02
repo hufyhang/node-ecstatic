@@ -5,6 +5,10 @@
 A simple static file server middleware. Use it with a raw http server,
 express/connect or on the CLI!
 
+# Changes on this folk:
+
++ Added "allows" support to specify which directories should be shown.
+
 # Examples:
 
 ## express 4.x
@@ -103,6 +107,7 @@ const opts = {
   weakEtags: true,
   weakCompare: true,
   handleOptionsMethod: false,
+  allows: []
 }
 ```
 
